@@ -22,3 +22,5 @@
 
 **Task verification:**
 - Screenshots of successful script execution.
+
+![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/c0efdb5e-287c-47ae-a33b-e1492f6c99c5)
