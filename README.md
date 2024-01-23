@@ -19,7 +19,7 @@
 
 **Task troubleshooting:**
 - Document any problems encountered during script execution.
-I didn't encounter any problem
+- I didn't encounter any problem
 
 **Task verification:**
 - Screenshots of successful script execution.
