@@ -25,3 +25,5 @@
 - Screenshots of successful script execution.
 
 ![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/c0efdb5e-287c-47ae-a33b-e1492f6c99c5)
+![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/1a88b0f9-1e8d-48cd-a142-e8e4e0cf530e)
+![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/cc834a1a-d4d8-4723-b2b2-36f8dfeb18aa)
