@@ -63,3 +63,4 @@ De gemaakte screenshots bevestigen het succes van elke fase in de Jenkins-pijpli
 Bewaren van scriptbestanden:
 
 Ik heb de Groovy-scriptbestanden opgeslagen voor toekomstige referentie.
+![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/9c9ec7e9-5198-4b18-9436-2bd3af86cabc)
