@@ -26,5 +26,7 @@ Taakverificatie
 Controleer de screenshots en scriptbestanden voor het bewijs van het succesvol uitvoeren van het playbook.
 
 ![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/3c9aeeeb-9620-4356-bbbd-0c8e8bd3a73b)
+![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/df8e7cf9-51a8-436d-8082-2197932803cc)
+
 
 
