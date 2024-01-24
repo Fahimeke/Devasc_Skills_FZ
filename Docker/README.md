@@ -87,6 +87,5 @@ Screenshots:
 Ik heb screenshots gemaakt op cruciale momenten, wat visueel bewijs levert van het maken van het Docker-image, het actief zijn van de container en het succesvol renderen van de Apache-startpagina.
 
 ![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/5b8afa1c-490f-4c07-a93f-f49b9f433936)
-
-![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/5020a211-69f0-4105-84fe-db17cb865b1c)
+![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/0cca3359-a0f5-4fec-bec5-f0f0b1a4a66e)
 
