@@ -2,7 +2,8 @@
 
 
 Taaknaam: Bash
-![Uploading image.png…]()
+![image](https://github.com/Fahimeke/Devasc_Skills_FZ/assets/91051172/1f5c9d15-d678-4632-95be-2ee2cb849f41)
+
 
 Taakvoorbereiding
 Verken het gegeven Python-script (restconf_put_get_interface.py) en voer het uit om de uitvoer te observeren.
